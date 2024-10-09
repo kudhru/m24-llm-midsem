@@ -17,8 +17,6 @@ public class StringManipulator {
         System.out.println("Reversed String: " + reversed);
 
         System.out.println("Number of Characters: " + (input.length() - 1)); 
-
-        // Forgot to close the scanner
     }
 }
 ```
