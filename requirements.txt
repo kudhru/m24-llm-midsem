@@ -1,0 +1,15 @@
+langgraph
+langgraph-sdk
+langgraph-checkpoint-sqlite
+langsmith
+langchain-community
+langchain-core
+langchain-openai
+langchain-google-vertexai
+langchain-groq
+langchain-google-genai
+notebook
+tavily-python
+wikipedia
+pypdf
+chromadb
